@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="11.282395">
+<testcase classname="Admin Login" name="Enter the education form" time="11.282395">
+<system-out><![CDATA[Given I enter the name a Primary_School.....................................passed
+Given I enter the name a Secondary_School...................................passed
+Given I enter the name a Intermediate.......................................passed
+When I enter the name a Engineering.........................................passed
+When I enter the name a University..........................................passed
+When I enter the intermediate_Percentage....................................passed
+When I click on gender......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
